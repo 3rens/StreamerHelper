@@ -6,7 +6,6 @@
   },
   "streamerInfo": [
     {
-      // 哔哩哔哩
       "王道长": {
         "uploadLocalFile": true,
         "deleteLocalFile": false,
@@ -42,7 +41,6 @@
           "冬月阑珊"
         ]
       },
-      // 斗鱼
       "阿松": {
         "uploadLocalFile": true,
         "deleteLocalFile": false,
@@ -95,7 +93,6 @@
           "玩机器"
         ]
       },
-      // 抖音
       "木语文化": {
         "uploadLocalFile": false,
         "deleteLocalFile": false,
