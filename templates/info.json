@@ -1,20 +1,60 @@
 {
   "personInfo": {
-    "username": "",
-    "password": "",
+    "username": "17786109042",
+    "password": "1234qwertyuiop",
     "access_token": ""
   },
   "streamerInfo": [
     {
-      "iGNing": {
+      "王道长": {
         "uploadLocalFile": true,
         "deleteLocalFile": false,
-        "roomUrl": "https://www.huya.com/980312",
-        "tid": 121,
+        "roomUrl": "https://live.bilibili.com/33581",
+        "tid": 17,
         "tags": [
-          "英雄联盟",
-          "电子竞技",
-          "iG"
+          "单机游戏",
+          "星露谷物语",
+          "王道长"
+        ]
+      },
+      "阿松": {
+        "uploadLocalFile": true,
+        "deleteLocalFile": false,
+        "roomUrl": "https://www.douyu.com/71091",
+        "tid": 65,
+        "tags": [
+          "网络游戏",
+          "云顶之弈",
+          "饥荒",
+          "黑色幸存者",
+          "BSER",
+          "驴酱",
+          "阿松"
+        ]
+      },
+      "阿飞": {
+        "uploadLocalFile": true,
+        "deleteLocalFile": false,
+        "roomUrl": "https://www.douyu.com/84452",
+        "tid": 65,
+        "tags": [
+          "网络游戏",
+          "黑色幸存者",
+          "BSER",
+          "阿飞"
+        ]
+      },
+      "紫兰": {
+        "uploadLocalFile": true,
+        "deleteLocalFile": false,
+        "roomUrl": "https://www.douyu.com/673890",
+        "tid": 65,
+        "tags": [
+          "网络游戏",
+          "黑色幸存者",
+          "BSER",
+          "紫蓝",
+          "紫蓝perse"
         ]
       }
     }
