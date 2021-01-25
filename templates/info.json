@@ -6,6 +6,7 @@
   },
   "streamerInfo": [
     {
+      // 哔哩哔哩
       "王道长": {
         "uploadLocalFile": true,
         "deleteLocalFile": false,
@@ -17,6 +18,31 @@
           "王道长"
         ]
       },
+      "Cerberus飁小花": {
+        "uploadLocalFile": true,
+        "deleteLocalFile": false,
+        "roomUrl": "https://live.bilibili.com/7825405",
+        "tid": 65,
+        "tags": [
+          "网络游戏",
+          "黑色幸存者",
+          "BSER",
+          "Cerberus飁小花"
+        ]
+      },
+      "冬月阑珊": {
+        "uploadLocalFile": true,
+        "deleteLocalFile": false,
+        "roomUrl": "https://live.bilibili.com/12518533",
+        "tid": 65,
+        "tags": [
+          "网络游戏",
+          "黑色幸存者",
+          "BSER",
+          "冬月阑珊"
+        ]
+      },
+      // 斗鱼
       "阿松": {
         "uploadLocalFile": true,
         "deleteLocalFile": false,
@@ -44,7 +70,7 @@
           "阿飞"
         ]
       },
-      "紫兰": {
+      "紫蓝perse": {
         "uploadLocalFile": true,
         "deleteLocalFile": false,
         "roomUrl": "https://www.douyu.com/673890",
@@ -55,6 +81,28 @@
           "BSER",
           "紫蓝",
           "紫蓝perse"
+        ]
+      },
+      "玩机器": {
+        "uploadLocalFile": true,
+        "deleteLocalFile": false,
+        "roomUrl": "https://www.douyu.com/6657",
+        "tid": 65,
+        "tags": [
+          "网络游戏",
+          "二次元",
+          "CSGO",
+          "玩机器"
+        ]
+      },
+      // 抖音
+      "木语文化": {
+        "uploadLocalFile": false,
+        "deleteLocalFile": false,
+        "roomUrl": "https://v.douyin.com/JvgyY3F/",
+        "tid": 0,
+        "tags": [
+          "test"
         ]
       }
     }
